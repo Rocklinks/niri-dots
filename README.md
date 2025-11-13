@@ -49,7 +49,7 @@ text
     Clone this repo:
 
 bash
-git clone https://github.com/yourusername/niri-dots.git ~/.config/niri
+git clone https://github.com/Rocklinks/niri-dots.git ~/.config/niri
 
 Copy/link config files as needed:
 
